@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/512/external-cashier-supermarket-flatart-icons-outline-flatarticons.png" width="120">
 </p>
 
 <h1 align="center">🛒 ALFI-MART POS SYSTEM</h1>
